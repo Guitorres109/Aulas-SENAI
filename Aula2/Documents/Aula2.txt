@@ -1,0 +1,7 @@
+Aula do dia 10/
+
+Aprendemos alguns codigos no CSS e estilização em páginas HTML
+
+CSS externo
+CSS interno
+CSS in-line

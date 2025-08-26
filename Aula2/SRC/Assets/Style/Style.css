@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(247, 233, 212);
+    text-align: center;
+}
+body h1{
+    color: rgb(109, 6, 6);
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+    transition: transform 0.2s;
+    /* font size 1em = 16px */
+    font-size: 7vw;
+    text-align: center;
+}
+main p{
+    color: rgb(109, 6, 6);
+    text-align: center;
+    font-size: 0.7vw;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+main button{
+    text-align: center;
+    cursor:pointer;
+    background-color: rgb(109, 6, 6);
+    color: white;
+    border-radius:5%;
+    border: none;
+    list-style: none;
+    text-align: right;
+    text-decoration: none;
+    font-size: 1vw;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+main a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+.body:hover{
+    transform: scale(1.1);
+}
+
+span{
+    color: black;
+    font-weight: bold;
+    /* 100 = super fino
+    400 = normal
+    700 = negrito
+    900 = super negrito */
+}

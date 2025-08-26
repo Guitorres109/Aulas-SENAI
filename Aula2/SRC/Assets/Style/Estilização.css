@@ -1,0 +1,22 @@
+/* CSS externo */
+
+/* seletor {
+    propiedade: valor
+} */
+
+
+body{
+    background-color: #b16464;
+    color: white;
+}
+body h1{
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    transition: transform 0.2s;
+}
+
+.body:hover{
+    transform: scale(1.1);
+}
