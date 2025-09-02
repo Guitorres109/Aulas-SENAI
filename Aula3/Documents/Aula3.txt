@@ -1,0 +1,4 @@
+17/09/2025
+
+Seletores | Box Model
+id = Atributo HTML que adiciona um identificador único na tag. Esse identificador pode ser utilizado no CSS para selecionarmos o elemento: #Nomeid
